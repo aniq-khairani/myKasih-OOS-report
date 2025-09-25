@@ -1,7 +1,7 @@
 # MyKasih OOS Report
 
 ## 📊 Dashboard Preview
-![Sales Dashboard](images/sales_dashboard.png)
+![Sales Dashboard](images/dc-item-stock-balance.png)
 
 ## 🚀 Live Demo
 - [View Power BI Dashboard](https://app.powerbi.com/view?r=example)
