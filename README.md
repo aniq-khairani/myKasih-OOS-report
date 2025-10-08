@@ -1,13 +1,14 @@
 # MyKasih OOS Report
 
 ## 📊 Dashboard Preview
-![Sales Dashboard](images/dc-item-stock-balance.png)
+![Page 1](images/myKasih-stock-oos-p1.png)
+![Page 2](images/myKasih-stock-oos-p1.png)
+![Page 3](images/myKasih-stock-oos-p1.png)
 
 ## 🚀 Live Demo
 - [View Power BI Dashboard](https://app.powerbi.com/view?r=example)
-- [View Tableau Dashboard](https://public.tableau.com/views/example)
 
 ## 🛠 Tools Used
-- SQL (PostgreSQL)
+- SQL ()
 - Power BI
 - Excel
